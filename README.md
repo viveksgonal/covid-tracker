@@ -1,4 +1,4 @@
-#Click Here to view Web App:
+Click Here to view Web App:
 
 https://covid-tracker-ed93a.web.app/
 
